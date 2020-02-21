@@ -2,11 +2,11 @@
 layout: layouts/contact.njk
 title: Get in touch
 section: contact
-date: 2018-01-01
+date: 2020-02-21
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 3
+  order: 4
 ---
 The contact form on this page uses
 [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process

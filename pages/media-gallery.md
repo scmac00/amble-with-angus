@@ -1,10 +1,10 @@
 ---
-title: About
+title: Media Gallery
 date: 2020-02-21T00:00:00.000Z
-permalink: /about/index.html
+permalink: /media-gallery/index.html
 eleventyNavigation:
-  key: About
-  order: 2
+  key: Media Gallery
+  order: 3
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
